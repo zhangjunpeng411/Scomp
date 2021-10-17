@@ -1,4 +1,4 @@
-The data include matched lncRNA, pseudogene and mRNA expression data, survival data, putative ceRNA network from ENCORI and SPONGEdb, and tumor type information. All the data can be downloaded at https://pan.baidu.com/s/1-h8G2FrhcR5UBUr0DPu3ig (Enter code: o9bj).
+The data include matched lncRNA, pseudogene and mRNA expression data, survival data, putative ceRNA network from ENCORI and SPONGEdb, and tumor type information. All the data can be downloaded at https://drive.google.com/file/d/1KP1VBVEHWzDGdq-4_qwSvA4RjvxBXgZ6/.
 
 Pancancer_lncRNA_Exp, Pancancer_pseudogene_Exp, Pancancer_mRNA_Exp and Pancancer_survival: Matched lncRNA, pseudogene, mRNA expression data, and clinical information in Pancancer.
 
